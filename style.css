@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'PressStart2P';
+    src: url('./fonts/PressStart2P-Regular.ttf') format('truetype');
+    /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+html,
+body,
+pre,
+code,
+kbd,
+samp {
+    font-family: "PressStart2P";
+}
+
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.space-top {
+    margin-top: 25px;
+}
