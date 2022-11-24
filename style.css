@@ -25,7 +25,11 @@ samp {
 }
 
 .space-top {
-    margin-top: 25px;
+    margin-top: 25px;    
+}
+
+.space-bottom {
+    margin-bottom: 25px;
 }
 
 .link-btn {
