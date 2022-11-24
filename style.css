@@ -45,9 +45,7 @@ samp {
 }
 
 @media screen and (min-width: 760px) {
-    .me {
-        border-radius: 50%;
-        border: 4px solid black;
+    .me {        
         width: 25%
     }
 }
